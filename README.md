@@ -49,7 +49,7 @@ bullfarm-login-signup-ui/
 
 ## 👤 Author
 
-- **GitHub:** [@khdxsohee](https://github.com/khdxsohee/bullfarm-login-signup-ui)
+- **GitHub:** [@farhan-swe](https://github.com/farhan-swe/bullfarm-login-signup-ui)
 - 🌍 Made with ❤️ for rural innovation and dairy startups.
 
 ---
@@ -58,7 +58,7 @@ bullfarm-login-signup-ui/
 
 1. Clone the repo:
 ```
-git clone https://github.com/khdxsohee/bullfarm-login-signup-ui.git
+git clone https://github.com/farhan-swe/bullfarm-login-signup-ui.git
 ```
 
 2. Open index.html in your browser.
